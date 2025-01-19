@@ -16,6 +16,5 @@ int p = (int) Math.pow(b, e);
 System.out.println("Result is "+ p);
 
 
-
 }
 }
